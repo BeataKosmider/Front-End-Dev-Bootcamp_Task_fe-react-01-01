@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" time="0.538">
+  <testsuite name="Button tests" errors="0" failures="0" skipped="0" timestamp="2023-03-10T14:43:53" time="0.528" tests="3">
+    <testcase classname="Button tests" name="Dodano poprawnie komponent App" time="0">
+    </testcase>
+    <testcase classname="Button tests" name="Dodano nagłówek z odpowiednim tekstem" time="0.001">
+    </testcase>
+    <testcase classname="Button tests" name="Dodano paragraf z odpowiednim tekstem" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
