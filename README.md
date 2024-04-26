@@ -1,4 +1,5 @@
-# Zadanie
+# Task performed during Front-End Developer Bootcamp
+## Zadanie
 
 Przygotuj komponent App, który będzie miał w sobie następujący JSX:
 
